@@ -26,7 +26,7 @@ function Home() {
               alt="profile"
             />
             <div className="top-0">
-              <p className="text-sm font-bold">Walter White</p>
+              <p className="text-sm font-bold">Jesse Pinkman</p>
               <p className="text-sm font-thin">1 gün</p>
             </div>
           </div>
