@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 function Home() {
   return (
     <div className="text-2xl text-gray-200 my-10 mx-10 grid gap-5 sm:grid-cols-4   ">
-      <div className="bg-gray-700 p-5 rounded sm:grid-cols-4 col-span-1 h-fit">
+      <div className="bg-gray-600 p-5 rounded sm:grid-cols-4 col-span-1 h-fit">
         <div className="flex justify-center">
           <img
             className="rounded-full flex content-center h-24 border-2"
@@ -17,7 +17,7 @@ function Home() {
         </Link>
       </div>
 
-      <div className="bg-gray-700 p-5 rounded sm:grid-cols-8 col-span-3 px-10">
+      <div className="bg-gray-600 p-5 rounded sm:grid-cols-8 col-span-3 px-10">
         <div className=" flex justify-between ">
           <div className="flex gap-5 top-0">
             <img
